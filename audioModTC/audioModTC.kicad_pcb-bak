@@ -67,7 +67,11 @@
     (aux_axis_origin 0 0)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
+<<<<<<< HEAD
       (layerselection 0x011fc_80000001)
+=======
+      (layerselection 0x010fc_80000001)
+>>>>>>> a36f0a1bacf0029f5bcedcf347ce4327250af141
       (usegerberextensions false)
       (excludeedgelayer true)
       (linewidth 0.100000)
@@ -90,7 +94,11 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
+<<<<<<< HEAD
       (outputdirectory Gerber_5/))
+=======
+      (outputdirectory Gerber_1/))
+>>>>>>> a36f0a1bacf0029f5bcedcf347ce4327250af141
   )
 
   (net 0 "")
